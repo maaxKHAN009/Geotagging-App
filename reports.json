@@ -1,0 +1,196 @@
+[
+  {
+    "type": "improvement",
+    "location": "Lat: 35.9291, Lon: 74.3744",
+    "description": "area for plantation",
+    "coord_x": 35.9291,
+    "coord_y": 74.3744
+  },
+  {
+    "type": "pollution",
+    "location": "Lat: 36.1743, Lon: 74.1648",
+    "description": "they are polluting water resources nearby",
+    "coord_x": 36.1743,
+    "coord_y": 74.1648
+  },
+  {
+    "type": "deforestation",
+    "location": "Lat: 35.9697, Lon: 74.3294",
+    "description": "lacks vegetation",
+    "coord_x": 35.9697,
+    "coord_y": 74.3294
+  },
+  {
+    "type": "pollution",
+    "location": "Lat: 35.9736, Lon: 74.4178",
+    "description": "there is a waste water excess dump",
+    "coord_x": 35.9736,
+    "coord_y": 74.4178
+  },
+  {
+    "type": "improvement",
+    "location": "Lat: 35.9124, Lon: 74.3851",
+    "description": "vegetation",
+    "coord_x": 35.9124,
+    "coord_y": 74.3851
+  },
+  {
+    "type": "deforestation",
+    "location": "Lat: 35.9294, Lon: 74.3222",
+    "description": "due to a wild fire, lots of trees were lost",
+    "coord_x": 35.9294,
+    "coord_y": 74.3222
+  },
+  {
+    "type": "pollution",
+    "location": "Lat: 35.9106, Lon: 74.3224",
+    "description": "hello",
+    "coord_x": 35.9106,
+    "coord_y": 74.3224
+  },
+  {
+    "type": "pollution",
+    "location": "Lat: 35.9109, Lon: 74.3223",
+    "description": "hello",
+    "coord_x": 35.9109,
+    "coord_y": 74.3223
+  },
+  {
+    "type": "pollution",
+    "location": "Lat: 35.9142, Lon: 74.3663",
+    "description": "excess waste water dump",
+    "coord_x": 35.9142,
+    "coord_y": 74.3663
+  },
+  {
+    "type": "pollution",
+    "location": "Lat: 35.9071, Lon: 74.3789",
+    "description": "excess waste water dump",
+    "coord_x": 35.9071,
+    "coord_y": 74.3789
+  },
+  {
+    "type": "deforestation",
+    "location": "Lat: 35.9271, Lon: 74.3354",
+    "description": "people are cutting trees",
+    "coord_x": 35.9271,
+    "coord_y": 74.3354
+  },
+  {
+    "type": "pollution",
+    "location": "Lat: 35.9609, Lon: 74.3538",
+    "description": "excess land use",
+    "coord_x": 35.9609,
+    "coord_y": 74.3538
+  },
+  {
+    "type": "deforestation",
+    "location": "Lat: 35.9109, Lon: 74.3142",
+    "description": "deforestation",
+    "coord_x": 35.9109,
+    "coord_y": 74.3142
+  },
+  {
+    "type": "improvement",
+    "location": "Lat: 36.1836, Lon: 74.4202",
+    "description": "can be improved",
+    "coord_x": 36.1836,
+    "coord_y": 74.4202,
+    "datetime": "2025-07-01 15:46:22"
+  },
+  {
+    "type": "other",
+    "location": "Lat: 35.8891, Lon: 74.3431",
+    "description": "too much people",
+    "coord_x": 35.8891,
+    "coord_y": 74.3431,
+    "datetime": "2025-07-01 15:52:20"
+  },
+  {
+    "type": "other",
+    "location": "Lat: 35.8891, Lon: 74.3431",
+    "description": "too much people",
+    "coord_x": 35.8891,
+    "coord_y": 74.3431,
+    "datetime": "2025-07-01 15:52:40"
+  },
+  {
+    "type": "other",
+    "location": "Lat: 35.8891, Lon: 74.3431",
+    "description": "too much people",
+    "coord_x": 35.8891,
+    "coord_y": 74.3431,
+    "datetime": "2025-07-01 15:53:01"
+  },
+  {
+    "type": "other",
+    "location": "Lat: 35.9016, Lon: 74.3638",
+    "description": "too much peeps",
+    "coord_x": 35.9016,
+    "coord_y": 74.3638,
+    "datetime": "2025-07-01 15:54:24"
+  },
+  {
+    "type": "other",
+    "location": "Lat: 35.9248, Lon: 74.3020",
+    "description": "i dont know mann",
+    "coord_x": 35.9248,
+    "coord_y": 74.302,
+    "datetime": "2025-07-01 16:03:25"
+  },
+  {
+    "type": "pollution",
+    "location": "Lat: 35.9375, Lon: 74.2318",
+    "description": "waste water dump",
+    "coord_x": 35.9375,
+    "coord_y": 74.2318,
+    "datetime": "2025-07-08 20:28:24"
+  },
+  {
+    "type": "pollution",
+    "location": "Lat: 35.9214, Lon: 74.3537",
+    "description": "waste water dumping",
+    "coord_x": 35.9214,
+    "coord_y": 74.3537,
+    "datetime": "2025-07-08 20:36:42"
+  },
+  {
+    "type": "pollution",
+    "location": "Lat: 35.9723, Lon: 74.3320",
+    "description": "a hotel is dumping waste",
+    "coord_x": 35.9723,
+    "coord_y": 74.332,
+    "datetime": "2025-07-08 21:19:18"
+  },
+  {
+    "type": "pollution",
+    "location": "Lat: 35.8957, Lon: 74.4004",
+    "description": "air pollution",
+    "coord_x": 35.8957,
+    "coord_y": 74.4004,
+    "datetime": "2025-07-11 18:05:34",
+    "images": []
+  },
+  {
+    "type": "pollution",
+    "location": "Lat: 35.8846, Lon: 74.3568",
+    "description": "sample",
+    "coord_x": 35.8846,
+    "coord_y": 74.3568,
+    "datetime": "2025-07-11 20:38:14",
+    "images": [
+      "20250711_203814_1.jpg"
+    ]
+  },
+  {
+    "type": "deforestation",
+    "location": "Lat: 35.9248, Lon: 74.3095",
+    "description": "deforestation with picture",
+    "coord_x": 35.9248,
+    "coord_y": 74.3095,
+    "datetime": "2025-07-11 20:40:19",
+    "images": [
+      "20250711_204018_1.jpg"
+    ]
+  }
+]

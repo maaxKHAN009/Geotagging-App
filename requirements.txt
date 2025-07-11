@@ -1,0 +1,7 @@
+Flask
+folium
+Flask-Cors
+requests
+pandas
+openpyxl
+gunicorn
